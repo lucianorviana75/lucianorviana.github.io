@@ -11,7 +11,7 @@ p{
     color: black;
 }
 div{
-    color: brown;
+    color: black;
 }
 pre {
     white-space: pre;
@@ -21,4 +21,31 @@ pre {
 pre {
     white-space: pre-wrap;
   }
-  
+.modelPre{
+    color: aliceblue;
+} 
+.faseAnalase{
+    
+    font-family: Lato; color: blue; font-size: 14px"
+} 
+.faseModelagem{
+    font-family: Lato; color: brown; font-size: 14px"
+}
+.sintaxe{
+    font-family: Lato; color: blueviolet; font-size: 14px"
+}
+.b1{
+    background-color: blue;
+}
+.b2{
+    background-color: brown;
+}  
+.b3{
+    background-color: blueviolet;
+}
+.torre{
+    background-color: yellow;
+}
+.caneta{
+    background-color: chartreuse;
+}
